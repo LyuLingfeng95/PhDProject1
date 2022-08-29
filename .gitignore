@@ -132,3 +132,6 @@ dmypy.json
 *.xls
 *.json
 .DS_Store
+*.pickle
+*.pickle
+*.pickle
