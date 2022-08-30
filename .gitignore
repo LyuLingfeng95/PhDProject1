@@ -136,3 +136,4 @@ dmypy.json
 *.pickle
 *.pickle
 dict_of_dfs.pickle
+*.pickle
