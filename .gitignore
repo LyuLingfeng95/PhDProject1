@@ -137,3 +137,6 @@ dmypy.json
 *.pickle
 dict_of_dfs.pickle
 *.pickle
+.RData
+.Rhistory
+*.jpeg
