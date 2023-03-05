@@ -140,3 +140,4 @@ dict_of_dfs.pickle
 .RData
 .Rhistory
 *.jpeg
+*.pkl
