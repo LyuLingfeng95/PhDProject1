@@ -141,3 +141,4 @@ dict_of_dfs.pickle
 .Rhistory
 *.jpeg
 *.pkl
+*.png
